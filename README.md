@@ -37,7 +37,7 @@ Customer-Churn-Prediction-ML/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Customer-Churn-Prediction-ML.git
+   git clone https://github.com/MoBa-create/Customer-Churn-Prediction-ML.git
    cd Customer-Churn-Prediction-ML
    ```
 
