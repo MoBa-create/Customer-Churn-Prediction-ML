@@ -16,37 +16,3 @@ An end-to-end Machine Learning classification pipeline built with **Scikit-Learn
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Libraries:** Scikit-Learn, Pandas, NumPy, Joblib
-
----
-
-## 📁 Repository Structure
-```text
-Customer-Churn-Prediction-ML/
-│── churn_prediction.py       # Main Python script for training and evaluation
-│── README.md                 # Project documentation
-│── requirements.txt          # Python dependencies
-│── .gitignore                # Git ignore configuration
-└── outputs/                  # Saved artifacts
-    ├── churn_model.pkl       # Trained Random Forest model
-    └── churn_data.csv        # Processed dataset
-```
-
----
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MoBa-create/Customer-Churn-Prediction-ML.git
-   cd Customer-Churn-Prediction-ML
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Execute the classification pipeline:**
-   ```bash
-   python churn_prediction.py
-   ```
